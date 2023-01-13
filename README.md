@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Takuya Takahashi</h1>
-<h3 align="center">A passionate creative developer form Tokyo</h3>
+<h3 align="center">A passionate creative developer from Tokyo</h3>
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=takuya-13068&layout=compact&show_icons=true&theme=onedark" />
