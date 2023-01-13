@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=takuya-13068&show_icons=true&locale=en" alt="takuya-13068" /></p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takuya-13068&show_icons=true&locale=en&layout=compact" alt="takuya-13068" /></p>
 
 <!--
 **takuya-13068/takuya-13068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
