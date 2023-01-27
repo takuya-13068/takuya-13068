@@ -2,9 +2,8 @@
 <h3 align="center">A passionate creative developer from Tokyo</h3>
 <h3 align="center">I'm junior at Tokyotech and majoring in Computer Science.</h3>
 
-<h3 align="center"> [Here](https://takuya-13068.github.io/portfolio/) is my portfolio site. </h3>
+[Here](https://takuya-13068.github.io/portfolio/) is my portfolio site.
 
-[東京大学　工学系研究科、情報理工学系研究科、新領域、学際情報学府](https://takuya-13068.github.io/portfolio/)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=takuya-13068&layout=compact&show_icons=true&theme=onedark" />
