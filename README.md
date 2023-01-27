@@ -4,7 +4,7 @@
 
 <h3 align="center"> [Here](https://takuya-13068.github.io/portfolio/) is my portfolio site. </h3>
 
-[東京大学　工学系研究科、情報理工学系研究科、新領域、学際情報学府](https://www.u-tokyo.ac.jp/content/400028998.pdf)
+[東京大学　工学系研究科、情報理工学系研究科、新領域、学際情報学府](https://takuya-13068.github.io/portfolio/)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=takuya-13068&layout=compact&show_icons=true&theme=onedark" />
