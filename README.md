@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Takuya Takahashi</h1>
 <h3 align="center">A passionate creative developer from Tokyo</h3>
 <h3 align="center">I'm junior at Tokyotech and majoring in Computer Science.</h3>
+<h3 align="center">[Here](https://takuya-13068.github.io/portfolio/) is my portfolio site.</h3>
+
 
 
 <p align="left"> 
